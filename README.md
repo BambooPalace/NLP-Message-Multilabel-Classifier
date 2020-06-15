@@ -5,7 +5,8 @@
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Instructions](#instructions)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Complementary Materials](#materials)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -61,6 +62,9 @@ Other folders contain preparation data and knowledge files.
 
 3. Go to https://SPACEID-3001.SPACEDOMAIN to retrieve app.
 
+## Complementary Materials<a name='materials'></a>
+1. [Introduction to NLP processing pipelines](Introduction to NLP pipeline.md)
+2. [Jupyter notebook illustrating NLP pipeline work](NLP Machine Learning Pipeline.ipynb)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
