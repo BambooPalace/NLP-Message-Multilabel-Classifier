@@ -1,7 +1,7 @@
-##Natural Language Processing Pipelines
-**In this lesson, you'll be introduced to some of the steps involved in a NLP pipeline:**
+## Natural Language Processing Pipelines
+**In this file, you'll be introduced to some of the steps involved in a NLP pipeline:**
 
-###1.Text Processing
+### 1.Text Processing
 
 - Cleaning: to remove irrelevant items, such as HTML tags
 
@@ -27,7 +27,7 @@ There are other more advanced forms of POS tagging that can learn sentence struc
 > stemming:change/changing/changed/changes/changer => **chang**
 > lemmatization:change/changing/changed/changes/changer => **change**
 
-###2.Feature Extraction
+### 2.Feature Extraction
 In order to feed text data into a statistical or a machine learning model.
 
 > 
@@ -47,6 +47,6 @@ you'll need a word level representation such as **word2vec or glove.**
 - Word Embeddings: 
 e.g. DL method: represent word similarity in vector/spatial form
 
-###3.Modeling
-
+### 3.Modeling
+Train supervised models as now inputs are numerical, preferred models for NLP are Naive Bayes(traditional one), Ensemble models(i.e. Random Forest) and Neural network.
 
