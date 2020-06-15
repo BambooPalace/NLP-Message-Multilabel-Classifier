@@ -63,8 +63,8 @@ Other folders contain preparation data and knowledge files.
 3. Go to https://SPACEID-3001.SPACEDOMAIN to retrieve app.
 
 ## Complementary Materials<a name='materials'></a>
-1. [Introduction to NLP processing pipelines](#https://github.com/BambooPalace/NLP-Message-Multilabel-Classifier/blob/master/Introduction%20to%20NLP%20pipeline.md)
-2. [Jupyter notebook illustrating NLP pipeline work](#https://github.com/BambooPalace/NLP-Message-Multilabel-Classifier/blob/master/NLP%20Machine%20Learning%20Pipeline.ipynb)
+1. [Introduction to NLP processing pipelines](https://github.com/BambooPalace/NLP-Message-Multilabel-Classifier/blob/master/Introduction%20to%20NLP%20pipeline.md)
+2. [Jupyter notebook illustrating NLP pipeline work](https://github.com/BambooPalace/NLP-Message-Multilabel-Classifier/blob/master/NLP%20Machine%20Learning%20Pipeline.ipynb)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
