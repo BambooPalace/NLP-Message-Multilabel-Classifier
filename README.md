@@ -63,8 +63,8 @@ Other folders contain preparation data and knowledge files.
 3. Go to https://SPACEID-3001.SPACEDOMAIN to retrieve app.
 
 ## Complementary Materials<a name='materials'></a>
-1. [Introduction to NLP processing pipelines](Introduction to NLP pipeline.md)
-2. [Jupyter notebook illustrating NLP pipeline work](NLP Machine Learning Pipeline.ipynb)
+1. [Introduction to NLP processing pipelines](#Introduction to NLP pipeline.md)
+2. [Jupyter notebook illustrating NLP pipeline work](#NLP Machine Learning Pipeline.ipynb)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
