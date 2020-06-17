@@ -5,7 +5,8 @@
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Instructions](#instructions)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Complementary Materials](#materials)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -16,7 +17,7 @@ The code run with Python3 and some additional packages beside Anaconda pre-insta
 This project takes in 25000+ disaster messagess to build a classifier for categorizing new messages. 
 The project is done in three steps:
 1. ETL pipeline: extract raw data, transform/clean data, load wrangled data to database.
-2. NLP ML pipeline: read and process text data from database, train and save the machine learning model.
+2. [NLP ML pipeline](https://github.com/BambooPalace/NLP-Message-Multilabel-Classifier/blob/master/NLP%20Machine%20Learning%20Pipeline.ipynb): read and process text data from database, train and save the machine learning model.
 3. Flask Web App: load trained model to classify new messages and display analysis data on webpages, using Flask framework.
 
 
@@ -61,6 +62,9 @@ Other folders contain preparation data and knowledge files.
 
 3. Go to https://SPACEID-3001.SPACEDOMAIN to retrieve app.
 
+## Complementary Materials<a name='materials'></a>
+1. [Introduction to NLP processing pipelines](https://github.com/BambooPalace/NLP-Message-Multilabel-Classifier/blob/master/Introduction%20to%20NLP%20pipeline.md)
+2. [Jupyter notebook illustrating NLP pipeline work](https://github.com/BambooPalace/NLP-Message-Multilabel-Classifier/blob/master/NLP%20Machine%20Learning%20Pipeline.ipynb)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
